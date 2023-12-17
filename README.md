@@ -45,6 +45,7 @@ En resumen, "Sin City" es una  aleación de géneros, estilos, personajes y narr
 
 ## Re-descubriendo la hibridación: Caso 2
 ![Háblame Binario: El Futuro De La Interfaz, 41% OFF](https://industrysurfer.com/wp-content/uploads/2022/05/Hablame-binario-el-futuro-de-la-interfaz-cerebro-computadora-Flash-Forward.png)
+
 [URL](https://industrysurfer.com/wp-content/uploads/2022/05/Hablame-binario-el-futuro-de-la-interfaz-cerebro-computadora-Flash-Forward.png)
 
 La **civilización híbrida** es una propuesta que imagina un futuro donde las personas podrán acceder a sus mentes a través de interfaces cerebro-máquina (ICM) que les permitirán conectar con otras personas, dispositivos o sistemas informáticos.
