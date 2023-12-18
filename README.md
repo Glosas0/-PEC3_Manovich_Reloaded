@@ -44,9 +44,10 @@ En resumen, "Sin City" es una  aleación de géneros, estilos, personajes y narr
 
 
 ## Re-descubriendo la hibridación: Caso 2
-![Háblame Binario: El Futuro De La Interfaz, 41% OFF](https://industrysurfer.com/wp-content/uploads/2022/05/Hablame-binario-el-futuro-de-la-interfaz-cerebro-computadora-Flash-Forward.png)
 
-[URL](https://industrysurfer.com/wp-content/uploads/2022/05/Hablame-binario-el-futuro-de-la-interfaz-cerebro-computadora-Flash-Forward.png)
+![Elon Musk Announces Neuralink Chip: It Sounds Like Science Fiction But ...](https://thinkmarketingmagazine.com/wp-content/uploads/2020/08/Think-Marketing-What-you-need-to-know-about-Neuralink-AI-brain-chip.jpg)
+
+[URL](https://thinkmarketingmagazine.com/wp-content/uploads/2020/08/Think-Marketing-What-you-need-to-know-about-Neuralink-AI-brain-chip.jpg)
 
 La **civilización híbrida** es una propuesta que imagina un futuro donde las personas podrán acceder a sus mentes a través de interfaces cerebro-máquina (ICM) que les permitirán conectar con otras personas, dispositivos o sistemas informáticos.
 Las **interfaces cerebro-computadora** (**ICC**), también conocidas como **interfaces cerebro-máquina** (**ICM**), **interfaces cerebro-ordenador** (**ICO**), **interfaces neuronales directas** (**IND**) o sencillamente como **tecnología BCI** por las siglas del término en inglés _Brain–Computer Interfaces_,​ constituyen una tecnología que se basa en la adquisición de información neural (por ejemplo datos de electrofisiología "Electrofisiología" nerviosa o registros de ondas cerebrales ( "Onda cerebral" ) para su procesamiento e interpretación a través de un ordenador .
