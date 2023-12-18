@@ -83,5 +83,7 @@ Finalmente, el metamedio computacional se refiere a la forma en que las interfac
  - Libro (Proquest): MANOVICH, Lev. "El software toma el mando". Barcelona : Editorial UOC, 2013. Págs. 138─278. UOC Press. Comunicación #29. ISBN 978-84-9064-022-7
  - Sin City , FilmAffinity en: https://www.filmaffinity.com/es/film495832.html
  - Interfaces cerebro-máquina , una nueva forma de comunicarse. Disponible en:https://www.tomorrow.bio/es/post/interfaces-cerebro-máquina-una-nueva-forma-de-comunicarse-2023-06-4727738365-neuroscience
+ - Neuralink.Disponible en:https://es.wikipedia.org/wiki/Neuralink
+ - Página oficial de Neuralink.Disponible en:https://neuralink.com/
  - Interfaz cerebro-computadora. Disponible en:
 	https://es.wikipedia.org/wiki/Interfaz_cerebro-computadora
