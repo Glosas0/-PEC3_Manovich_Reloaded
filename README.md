@@ -57,7 +57,7 @@ Esta tecnología podría tener beneficios como mejorar la comunicación, el apre
 
 Neuralink es una empresa de neurotecnología fundada por Elon Musk, que tiene como objetivo crear una interfaz cerebro-computadora (ICC) generalizada que pueda restaurar la autonomía y desbloquear el potencial humano. Según Musk, Neuralink busca lograr una simbiosis total con la inteligencia artificial (IA) a largo plazo.
 
-La hibridación de Neuralink se manifiestaa través de la posibilidad de fusionar el cerebro humano con una inteligencia artificial (IA) mediante el uso de un dispositivo implantable llamado N1, desarrollado por dicha empresa. El N1 consiste en un chip informático que se inserta en el cerebro y se comunica con una computadora externa a través de una corriente eléctrica.
+La hibridación de Neuralink se manifiesta a través de la posibilidad de fusionar el cerebro humano con una inteligencia artificial (IA) mediante el uso de un dispositivo implantable llamado N1, desarrollado por dicha empresa. El N1 consiste en un chip informático que se inserta en el cerebro y se comunica con una computadora externa a través de una corriente eléctrica.
 Según Elon Musk, el fundador y CEO de Neuralink, esta interfaz podría tener múltiples aplicaciones, como:
 
 Curar la depresión, la ansiedad y otras enfermedades mentales.
